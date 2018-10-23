@@ -1,0 +1,5 @@
+print("你好，我是泽华")
+print("1 + 1 = " + str(1 + 1))
+print("Please input your name below:")
+your_name = input()
+print("Your name is " + str(your_name))
